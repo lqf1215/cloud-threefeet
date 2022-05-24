@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="blade-demo" />
+        <module name="blade-desk" />
+        <module name="blade-log" />
+        <module name="blade-system" />
+        <module name="blade-user" />
+        <module name="threefeet-admin" />
+        <module name="threefeet-auth" />
+        <module name="threefeet-common" />
+        <module name="threefeet-core-boot" />
+        <module name="threefeet-core-cloud" />
+        <module name="threefeet-core-develop" />
+        <module name="threefeet-core-launch" />
+        <module name="threefeet-core-log" />
+        <module name="threefeet-core-mybatis" />
+        <module name="threefeet-core-oss" />
+        <module name="threefeet-core-report" />
+        <module name="threefeet-core-secure" />
+        <module name="threefeet-core-social" />
+        <module name="threefeet-core-swagger" />
+        <module name="threefeet-core-tool" />
+        <module name="threefeet-core-transaction" />
+        <module name="threefeet-demo" />
+        <module name="threefeet-desk" />
+        <module name="threefeet-desk-api" />
+        <module name="threefeet-develop" />
+        <module name="threefeet-dict-api" />
+        <module name="threefeet-gateway" />
+        <module name="threefeet-log" />
+        <module name="threefeet-report" />
+        <module name="threefeet-resource" />
+        <module name="threefeet-seata-order" />
+        <module name="threefeet-seata-storage" />
+        <module name="threefeet-swagger" />
+        <module name="threefeet-system" />
+        <module name="threefeet-user" />
+        <module name="threefeet-user-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="blade-demo" target="1.8" />
+      <module name="blade-desk" target="1.8" />
+      <module name="blade-log" target="1.8" />
+      <module name="blade-system" target="1.8" />
+      <module name="blade-user" target="1.8" />
+      <module name="cloud-threefeet" target="1.5" />
+      <module name="threefeet-admin" target="1.8" />
+      <module name="threefeet-auth" target="1.8" />
+      <module name="threefeet-common" target="1.8" />
+      <module name="threefeet-core-boot" target="1.8" />
+      <module name="threefeet-core-cloud" target="1.8" />
+      <module name="threefeet-core-develop" target="1.8" />
+      <module name="threefeet-core-launch" target="1.8" />
+      <module name="threefeet-core-log" target="1.8" />
+      <module name="threefeet-core-mybatis" target="1.8" />
+      <module name="threefeet-core-oss" target="1.8" />
+      <module name="threefeet-core-report" target="1.8" />
+      <module name="threefeet-core-secure" target="1.8" />
+      <module name="threefeet-core-social" target="1.8" />
+      <module name="threefeet-core-swagger" target="1.8" />
+      <module name="threefeet-core-tool" target="1.8" />
+      <module name="threefeet-core-transaction" target="1.8" />
+      <module name="threefeet-demo" target="1.8" />
+      <module name="threefeet-demo-api" target="1.8" />
+      <module name="threefeet-dependencies" target="1.8" />
+      <module name="threefeet-desk" target="1.8" />
+      <module name="threefeet-desk-api" target="1.8" />
+      <module name="threefeet-develop" target="1.8" />
+      <module name="threefeet-dict-api" target="1.8" />
+      <module name="threefeet-gateway" target="1.8" />
+      <module name="threefeet-log" target="1.8" />
+      <module name="threefeet-ops" target="1.8" />
+      <module name="threefeet-report" target="1.8" />
+      <module name="threefeet-resource" target="1.8" />
+      <module name="threefeet-seata-order" target="1.8" />
+      <module name="threefeet-seata-storage" target="1.8" />
+      <module name="threefeet-service" target="1.8" />
+      <module name="threefeet-service-api" target="1.8" />
+      <module name="threefeet-swagger" target="1.8" />
+      <module name="threefeet-system" target="1.8" />
+      <module name="threefeet-system-api" target="1.8" />
+      <module name="threefeet-tool" target="1.8" />
+      <module name="threefeet-user" target="1.8" />
+      <module name="threefeet-user-api" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="blade-demo" options="" />
+      <module name="blade-desk" options="" />
+      <module name="blade-log" options="" />
+      <module name="blade-system" options="" />
+      <module name="blade-user" options="" />
+      <module name="threefeet-admin" options="" />
+      <module name="threefeet-auth" options="" />
+      <module name="threefeet-common" options="" />
+      <module name="threefeet-core-boot" options="" />
+      <module name="threefeet-core-cloud" options="" />
+      <module name="threefeet-core-develop" options="" />
+      <module name="threefeet-core-launch" options="" />
+      <module name="threefeet-core-log" options="" />
+      <module name="threefeet-core-mybatis" options="" />
+      <module name="threefeet-core-oss" options="" />
+      <module name="threefeet-core-report" options="" />
+      <module name="threefeet-core-secure" options="" />
+      <module name="threefeet-core-social" options="" />
+      <module name="threefeet-core-swagger" options="" />
+      <module name="threefeet-core-tool" options="" />
+      <module name="threefeet-core-transaction" options="" />
+      <module name="threefeet-demo" options="-parameters" />
+      <module name="threefeet-demo-api" options="-parameters" />
+      <module name="threefeet-desk" options="-parameters" />
+      <module name="threefeet-desk-api" options="" />
+      <module name="threefeet-develop" options="" />
+      <module name="threefeet-dict-api" options="" />
+      <module name="threefeet-gateway" options="" />
+      <module name="threefeet-log" options="-parameters" />
+      <module name="threefeet-report" options="" />
+      <module name="threefeet-resource" options="" />
+      <module name="threefeet-seata-order" options="" />
+      <module name="threefeet-seata-storage" options="" />
+      <module name="threefeet-swagger" options="" />
+      <module name="threefeet-system" options="-parameters" />
+      <module name="threefeet-system-api" options="-parameters" />
+      <module name="threefeet-tool" options="" />
+      <module name="threefeet-user" options="-parameters" />
+      <module name="threefeet-user-api" options="" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/threefeet-auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-dependencies" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-ops" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-ops/threefeet-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-ops/threefeet-develop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-ops/threefeet-report" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-ops/threefeet-resource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-ops/threefeet-seata-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-ops/threefeet-seata-storage" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-ops/threefeet-swagger" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-service-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-service-api/threefeet-demo-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-service-api/threefeet-desk-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-service-api/threefeet-dict-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-service-api/threefeet-system-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-service-api/threefeet-user-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-service/threefeet-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-service/threefeet-desk" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-service/threefeet-log" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-service/threefeet-system" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-service/threefeet-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-tool" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-tool/threefeet-core-boot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-tool/threefeet-core-cloud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-tool/threefeet-core-develop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-tool/threefeet-core-launch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-tool/threefeet-core-log" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-tool/threefeet-core-mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-tool/threefeet-core-oss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-tool/threefeet-core-report" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-tool/threefeet-core-secure" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-tool/threefeet-core-social" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-tool/threefeet-core-swagger" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-tool/threefeet-core-tool" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threefeet-tool/threefeet-core-transaction" charset="UTF-8" />
+  </component>
+</project>

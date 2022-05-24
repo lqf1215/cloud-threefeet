@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>threefeet-tool</artifactId>
+        <groupId>com.twiceok</groupId>
+        <version>0.0.1-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    <version>0.0.1-SNAPSHOT</version>
+
+    <artifactId>threefeet-core-log</artifactId>
+    <name>${project.artifactId}</name>
+    <packaging>jar</packaging>
+
+    <dependencies>
+        <!--Blade-->
+        <dependency>
+            <groupId>com.twiceok</groupId>
+            <artifactId>threefeet-core-tool</artifactId>
+            <version>${threefeet.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.twiceok</groupId>
+            <artifactId>threefeet-core-secure</artifactId>
+            <version>${threefeet.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.twiceok</groupId>
+            <artifactId>threefeet-core-cloud</artifactId>
+            <version>${threefeet.version}</version>
+        </dependency>
+        <!--Mybatis-->
+        <dependency>
+            <groupId>com.baomidou</groupId>
+            <artifactId>mybatis-plus</artifactId>
+            <version>${mybatis-plus.version}</version>
+        </dependency>
+    </dependencies>
+
+</project>

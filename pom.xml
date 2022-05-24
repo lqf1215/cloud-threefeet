@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.twiceok</groupId>
+    <artifactId>cloud-threefeet</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <name>cloud-threefeet</name>
+    <description>cloud-threefeet 三尺微服务</description>
+
+
+    <modules>
+        <module>threefeet-auth</module>
+        <module>threefeet-gateway</module>
+        <module>threefeet-ops</module>
+        <module>threefeet-service</module>
+        <module>threefeet-service-api</module>
+        <module>threefeet-common</module>
+        <module>threefeet-dependencies</module>
+        <module>threefeet-tool</module>
+    </modules>
+
+</project>

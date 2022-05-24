@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <groupId>com.twiceok</groupId>
+        <artifactId>threefeet-dependencies</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
+        <relativePath>../threefeet-dependencies/pom.xml</relativePath>
+    </parent>
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>threefeet-tool</artifactId>
+    <name>threefeet-tool</name>
+    <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>threefeet-core-boot</module>
+        <module>threefeet-core-cloud</module>
+        <module>threefeet-core-develop</module>
+        <module>threefeet-core-launch</module>
+        <module>threefeet-core-log</module>
+        <module>threefeet-core-mybatis</module>
+        <module>threefeet-core-secure</module>
+        <module>threefeet-core-social</module>
+        <module>threefeet-core-swagger</module>
+        <module>threefeet-core-tool</module>
+        <module>threefeet-core-oss</module>
+        <module>threefeet-core-transaction</module>
+        <module>threefeet-core-report</module>
+    </modules>
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-aop</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-configuration-processor</artifactId>
+            <optional>true</optional>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-actuator</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.retry</groupId>
+            <artifactId>spring-retry</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.hibernate.validator</groupId>
+            <artifactId>hibernate-validator</artifactId>
+            <version>6.2.0.Final</version>
+        </dependency>
+        <dependency>
+            <groupId>net.dreamlu</groupId>
+            <artifactId>mica-auto</artifactId>
+            <version>${mica.auto.version}</version>
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
+</project>

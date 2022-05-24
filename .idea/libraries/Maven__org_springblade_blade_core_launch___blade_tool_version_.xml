@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springblade:blade-core-launch:${blade.tool.version}">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springblade/blade-core-launch/${blade.tool.version}/blade-core-launch-${blade.tool.version}.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springblade/blade-core-launch/${blade.tool.version}/blade-core-launch-${blade.tool.version}-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springblade/blade-core-launch/${blade.tool.version}/blade-core-launch-${blade.tool.version}-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

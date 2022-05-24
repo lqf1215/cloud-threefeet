@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/threefeet-service/threefeet-demo/blade-demo.iml" filepath="$PROJECT_DIR$/threefeet-service/threefeet-demo/blade-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-service/threefeet-desk/blade-desk.iml" filepath="$PROJECT_DIR$/threefeet-service/threefeet-desk/blade-desk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-service/threefeet-log/blade-log.iml" filepath="$PROJECT_DIR$/threefeet-service/threefeet-log/blade-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-service/threefeet-system/blade-system.iml" filepath="$PROJECT_DIR$/threefeet-service/threefeet-system/blade-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-service/threefeet-user/blade-user.iml" filepath="$PROJECT_DIR$/threefeet-service/threefeet-user/blade-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-threefeet.iml" filepath="$PROJECT_DIR$/cloud-threefeet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-ops/threefeet-admin/threefeet-admin.iml" filepath="$PROJECT_DIR$/threefeet-ops/threefeet-admin/threefeet-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-auth/threefeet-auth.iml" filepath="$PROJECT_DIR$/threefeet-auth/threefeet-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-common/threefeet-common.iml" filepath="$PROJECT_DIR$/threefeet-common/threefeet-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-tool/threefeet-core-boot/threefeet-core-boot.iml" filepath="$PROJECT_DIR$/threefeet-tool/threefeet-core-boot/threefeet-core-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-tool/threefeet-core-cloud/threefeet-core-cloud.iml" filepath="$PROJECT_DIR$/threefeet-tool/threefeet-core-cloud/threefeet-core-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-tool/threefeet-core-develop/threefeet-core-develop.iml" filepath="$PROJECT_DIR$/threefeet-tool/threefeet-core-develop/threefeet-core-develop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-tool/threefeet-core-launch/threefeet-core-launch.iml" filepath="$PROJECT_DIR$/threefeet-tool/threefeet-core-launch/threefeet-core-launch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-tool/threefeet-core-log/threefeet-core-log.iml" filepath="$PROJECT_DIR$/threefeet-tool/threefeet-core-log/threefeet-core-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-tool/threefeet-core-mybatis/threefeet-core-mybatis.iml" filepath="$PROJECT_DIR$/threefeet-tool/threefeet-core-mybatis/threefeet-core-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-tool/threefeet-core-oss/threefeet-core-oss.iml" filepath="$PROJECT_DIR$/threefeet-tool/threefeet-core-oss/threefeet-core-oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-tool/threefeet-core-report/threefeet-core-report.iml" filepath="$PROJECT_DIR$/threefeet-tool/threefeet-core-report/threefeet-core-report.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-tool/threefeet-core-secure/threefeet-core-secure.iml" filepath="$PROJECT_DIR$/threefeet-tool/threefeet-core-secure/threefeet-core-secure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-tool/threefeet-core-social/threefeet-core-social.iml" filepath="$PROJECT_DIR$/threefeet-tool/threefeet-core-social/threefeet-core-social.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-tool/threefeet-core-swagger/threefeet-core-swagger.iml" filepath="$PROJECT_DIR$/threefeet-tool/threefeet-core-swagger/threefeet-core-swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-tool/threefeet-core-tool/threefeet-core-tool.iml" filepath="$PROJECT_DIR$/threefeet-tool/threefeet-core-tool/threefeet-core-tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-tool/threefeet-core-transaction/threefeet-core-transaction.iml" filepath="$PROJECT_DIR$/threefeet-tool/threefeet-core-transaction/threefeet-core-transaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-dependencies/threefeet-dependencies.iml" filepath="$PROJECT_DIR$/threefeet-dependencies/threefeet-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-service-api/threefeet-desk-api/threefeet-desk-api.iml" filepath="$PROJECT_DIR$/threefeet-service-api/threefeet-desk-api/threefeet-desk-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-ops/threefeet-develop/threefeet-develop.iml" filepath="$PROJECT_DIR$/threefeet-ops/threefeet-develop/threefeet-develop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-service-api/threefeet-dict-api/threefeet-dict-api.iml" filepath="$PROJECT_DIR$/threefeet-service-api/threefeet-dict-api/threefeet-dict-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-gateway/threefeet-gateway.iml" filepath="$PROJECT_DIR$/threefeet-gateway/threefeet-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-ops/threefeet-ops.iml" filepath="$PROJECT_DIR$/threefeet-ops/threefeet-ops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-ops/threefeet-report/threefeet-report.iml" filepath="$PROJECT_DIR$/threefeet-ops/threefeet-report/threefeet-report.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-ops/threefeet-resource/threefeet-resource.iml" filepath="$PROJECT_DIR$/threefeet-ops/threefeet-resource/threefeet-resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-ops/threefeet-seata-order/threefeet-seata-order.iml" filepath="$PROJECT_DIR$/threefeet-ops/threefeet-seata-order/threefeet-seata-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-ops/threefeet-seata-storage/threefeet-seata-storage.iml" filepath="$PROJECT_DIR$/threefeet-ops/threefeet-seata-storage/threefeet-seata-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-service/threefeet-service.iml" filepath="$PROJECT_DIR$/threefeet-service/threefeet-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-service-api/threefeet-service-api.iml" filepath="$PROJECT_DIR$/threefeet-service-api/threefeet-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-ops/threefeet-swagger/threefeet-swagger.iml" filepath="$PROJECT_DIR$/threefeet-ops/threefeet-swagger/threefeet-swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-tool/threefeet-tool.iml" filepath="$PROJECT_DIR$/threefeet-tool/threefeet-tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threefeet-service-api/threefeet-user-api/threefeet-user-api.iml" filepath="$PROJECT_DIR$/threefeet-service-api/threefeet-user-api/threefeet-user-api.iml" />
+    </modules>
+  </component>
+</project>
